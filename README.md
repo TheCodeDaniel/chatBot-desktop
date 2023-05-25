@@ -1,6 +1,6 @@
 # chatbot
 
-#### Note: the API key in the app is expired, replace with your own API key for bot response visit https://openai.com/blog/chatgpt
+### Note: the API key in the app is expired, replace with your own API key for bot response visit https://openai.com/blog/chatgpt
 
 ### IMAGE OF THE APP
 ![Screenshot (243)](https://github.com/TheCodeDaniel/chatBot-desktop/assets/130862856/1e192a81-c7c4-493c-8025-07c5c2ed1a34)
